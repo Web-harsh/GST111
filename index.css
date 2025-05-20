@@ -6,6 +6,9 @@
 body{
          background: linear-gradient(to right,white,grey);
 }
+h1{
+color:black;
+}
       /* Start page styles */
 .start-container {
   display: flex;
@@ -29,6 +32,7 @@ body{
   -webkit-text-fill-color: transparent;
   margin-bottom: 20px;
   font-weight:bolder;
+color:black;
  
 }
 
